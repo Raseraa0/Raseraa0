@@ -14,7 +14,7 @@ Feel free to dive into my repositories and projects. 🚀
 
 To learn more about me and see some of my other projects, here is my portfolio. 💡
 
-[🔗 **My Portfolio**](https://raseraa0/github.com)
+[🔗 **My Portfolio**](https://raseraa0.github.io/)
 
 ---
 
