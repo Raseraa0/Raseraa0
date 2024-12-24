@@ -53,6 +53,6 @@ Connect with me on my social platforms:
 
 - [💼 LinkedIn](https://www.linkedin.com/in/arthur-rasera/)  
 - [🚀 GitHub](https://github.com/Raseraa0/)  
-- [📧 raserarthur71@gmail.com](raserarthur71@gmail.com)   
+- 📧 raserarthur71@gmail.com   
 
 Feel free to reach out for collaborations or just to say hi! 😊
