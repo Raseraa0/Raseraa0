@@ -4,7 +4,7 @@ Welcome to my GitHub profile !
 
 I'm a computer science student passionate about AI and software engineering.
 
-I love exploring many things, which is why you'll find a variety of projects here! 🌟
+I love exploring many things, which is why you'll find a variety of projects here! 🌱
 
 Feel free to dive into my repositories and projects. 🚀
 
@@ -23,40 +23,27 @@ To learn more about me and see some of my other projects, here is my portfolio. 
 Here are some of the projects you'll find on my GitHub:
 
 <details>
-  <summary>🌟 Project 1: [Project Name]</summary>
+  <summary>🌟 RayTracing</summary>
   <p>
-    <img src="https://via.placeholder.com/800x400.png?text=Project+1+Image" alt="Project 1" width="100%">
+    <!-- <img src="" alt="" style="width:100%;"> -->
     <br>
-    **Description**: [Brief description, e.g., A web app for task management].  
-    **Technologies**: [List of technologies].  
-    [🔗 Link to Repository](https://github.com/username/project1)  
-    [🌍 Live Demo](https://project1-demo.com)
+    <strong>Description:</strong> Generate PPM images with customizable objects (position, material, texture, shape).<br>
+    <strong>Technologies:</strong> C++, CMake, and some physics.<br>
+    <a href="https://github.com/Raseraa0/RayTracing">🔗 Link to Repository</a>
   </p>
 </details>
 
 <details>
-  <summary>🌟 Project 2: [Project Name]</summary>
+  <summary>🤖 Neural Network From Scratch</summary>
   <p>
-    <img src="https://via.placeholder.com/800x400.png?text=Project+2+Image" alt="Project 2" width="100%">
+    <!-- <img src="" alt="" style="width:100%;"> -->
     <br>
-    **Description**: [Brief description, e.g., A Discord bot for managing communities].  
-    **Technologies**: [List of technologies].  
-    [🔗 Link to Repository](https://github.com/username/project2)  
-    [🌍 Live Demo](https://project2-demo.com)
+    <strong>Description:</strong> Build a neural network from scratch without any libraries—just math and matrices.<br>
+    <strong>Technologies:</strong> C++, CMake, and some math.<br>
+    <a href="https://github.com/Raseraa0/NeuralNetworkFromScratch">🔗 Link to Repository</a>
   </p>
 </details>
 
-<details>
-  <summary>🌟 Project 3: [Project Name]</summary>
-  <p>
-    <img src="https://via.placeholder.com/800x400.png?text=Project+3+Image" alt="Project 3" width="100%">
-    <br>
-    **Description**: [Brief description, e.g., A tool for data visualization].  
-    **Technologies**: [List of technologies].  
-    [🔗 Link to Repository](https://github.com/username/project3)  
-    [🌍 Live Demo](https://project3-demo.com)
-  </p>
-</details>
 
 ---
 
@@ -64,8 +51,8 @@ Here are some of the projects you'll find on my GitHub:
 
 Connect with me on my social platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourprofile)  
-- [GitHub](https://github.com/yourusername)  
+- [💼 LinkedIn](https://www.linkedin.com/in/arthur-rasera/)  
+- [🚀 GitHub](https://github.com/Raseraa0/)  
+- [📧 raserarthur71@gmail.com](raserarthur71@gmail.com)   
 
 Feel free to reach out for collaborations or just to say hi! 😊
