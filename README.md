@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile !
 
-I'm a computer science student passionate about AI and software engineering.
-
-I love exploring many things, which is why you'll find a variety of projects here! 🌱
+I'm a young software developer passionate about explore many things, which is why you'll find a variety of projects here ! 🌱
 
 Feel free to dive into my repositories and projects. 🚀
 
@@ -14,36 +12,18 @@ Feel free to dive into my repositories and projects. 🚀
 
 To learn more about me and see some of my other projects, here is my portfolio. 💡
 
-[🔗 **My Portfolio**](https://raseraa0.github.io/)
+[🔗 🌟**My Portfolio** 🌟](https://raseraa0.github.io/)
 
 ---
 
 ## 📂 Projects in My Repositories
 
-Here are some of the projects you'll find on my GitHub:
-
-<details>
-  <summary>🌟 RayTracing</summary>
-  <p>
-    <!-- <img src="" alt="" style="width:100%;"> -->
-    <br>
-    <strong>Description:</strong> Generate PPM images with customizable objects (position, material, texture, shape).<br>
-    <strong>Technologies:</strong> C++, CMake, and some physics.<br>
-    <a href="https://github.com/Raseraa0/RayTracing">🔗 Link to Repository</a>
-  </p>
-</details>
-
-<details>
-  <summary>🤖 Neural Network From Scratch</summary>
-  <p>
-    <!-- <img src="" alt="" style="width:100%;"> -->
-    <br>
-    <strong>Description:</strong> Build a neural network from scratch without any libraries—just math and matrices.<br>
-    <strong>Technologies:</strong> C++, CMake, and some math.<br>
-    <a href="https://github.com/Raseraa0/NeuralNetworkFromScratch">🔗 Link to Repository</a>
-  </p>
-</details>
-
+- 🎨 [Portfolio](https://github.com/Raseraa0/raseraa0.github.io) – A personal portfolio built with `Next.js`.
+- 🖼️ [Wallpaper Generator](https://github.com/Raseraa0/Wallpaper) –  A `Python` tool to generate wallpapers using image mosaics.
+- 🧠 [Neural Network From Scratch](https://github.com/Raseraa0/NeuralNetworkFromScratch) – A neural network implementation in `C++`.
+- 🌌 [Ray Tracing](https://github.com/Raseraa0/RayTracing) – A ray tracer for generating high-quality images in `C++`.
+- 🛠️ [Dotfiles](https://github.com/Raseraa0/dotfiles) – My personal system configuration files.
+- 🗃️ [Old Portfolio](https://github.com/Raseraa0/portfolio-legacy) – A legacy portfolio with some interesting features built in `Javascript`.
 
 ---
 
@@ -51,8 +31,8 @@ Here are some of the projects you'll find on my GitHub:
 
 Connect with me on my social platforms:
 
-- [💼 LinkedIn](https://www.linkedin.com/in/arthur-rasera/)  
-- [🚀 GitHub](https://github.com/Raseraa0/)  
-- [📧 raserarthur71@gmail.com](raserarthur71@gmail.com)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/arthur-rasera/)  
+- 🚀 [GitHub](https://github.com/Raseraa0/)  
+- 📧 [raserarthur71@gmail.com](raserarthur71@gmail.com)   
 
 Feel free to reach out for collaborations or just to say hi! 😊
