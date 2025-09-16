@@ -21,6 +21,7 @@ To learn more about me and see some of my other projects, here is my portfolio. 
 - 🎨 [Portfolio](https://github.com/Raseraa0/raseraa0.github.io) – A personal portfolio built with `Next.js`.
 - 🖼️ [Wallpaper Generator](https://github.com/Raseraa0/Wallpaper) –  A `Python` tool to generate wallpapers using image mosaics.
 - 🧠 [Neural Network From Scratch](https://github.com/Raseraa0/NeuralNetworkFromScratch) – A neural network implementation in `C++`.
+- 🪐 [Osmoz](https://github.com/Raseraa0/osmoz-theme) - My own VS Code theme.
 - 🌌 [Ray Tracing](https://github.com/Raseraa0/RayTracing) – A ray tracer for generating high-quality images in `C++`.
 - 🛠️ [Dotfiles](https://github.com/Raseraa0/dotfiles) – My personal system configuration files.
 - 🗃️ [Old Portfolio](https://github.com/Raseraa0/portfolio-legacy) – A legacy portfolio with some interesting features built in `Javascript`.
