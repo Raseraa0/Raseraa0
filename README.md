@@ -26,6 +26,10 @@ To learn more about me and see some of my other projects, here is my portfolio. 
 - 🛠️ [Dotfiles](https://github.com/Raseraa0/dotfiles) – My personal system configuration files.
 - 🗃️ [Old Portfolio](https://github.com/Raseraa0/portfolio-legacy) – A legacy portfolio with some interesting features built in `Javascript`.
 
+### 🚧 In progress
+
+- 🔐 [Password Manager](https://github.com/Raseraa0/Password-Manager)
+
 ---
 
 ## 🌐 Find Me Online
