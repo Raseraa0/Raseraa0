@@ -28,7 +28,6 @@ To learn more about me and see some of my other projects, here is my portfolio. 
 
 ### 🚧 In progress
 
-- 🔐 [Password Manager](https://github.com/Raseraa0/Password-Manager) - In Progress
 - 🏋️ [Focus](https://github.com/Raseraa0/Focus) - In Progress
 
 ---
